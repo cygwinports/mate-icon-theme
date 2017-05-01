@@ -1,7 +1,7 @@
 inherit mate
 
 NAME="mate-icon-theme"
-VERSION=1.16.0
+VERSION=1.18.2
 RELEASE=1
 CATEGORY="MATE"
 SUMMARY="MATE icon theme"
